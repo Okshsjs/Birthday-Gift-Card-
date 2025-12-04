@@ -1,0 +1,25 @@
+body {
+    margin: 0;
+    background: #ffe4ec;
+    font-family: 'Poppins', sans-serif;
+}
+
+.container {
+    text-align: center;
+    padding-top: 60px;
+}
+
+h1 {
+    color: #ff487a;
+    font-size: 28px;
+    margin-bottom: 30px;
+}
+
+#qrcode {
+    margin: auto;
+    padding: 20px;
+    background: white;
+    width: fit-content;
+    border-radius: 16px;
+    box-shadow: 0 0 20px rgba(255, 90, 130, 0.4);
+}
